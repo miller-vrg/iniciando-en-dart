@@ -9,11 +9,12 @@ print(numeros);
 numeros.add(8); //agregar a la lista 
 print(numeros);
 
-List masNumeros = List(10); //Valor fijo
-print(masNumeros);
+//var masNumeros =  List(2);
+ //Valor fijo
+//print(masNumeros);
 
-masNumeros[0] = 1;
-masNumeros[1] = 2;
+//masNumeros[0] = 1;
+//masNumeros[1] = 2;
+//print(masNumeros);
 
-print(masNumeros);
 }

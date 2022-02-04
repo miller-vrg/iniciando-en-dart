@@ -1,7 +1,7 @@
 # iniciando-en-dart
-Ejercicios para iniciar en el mundo de dart
+### Ejercicios para iniciar en el mundo de dart
 
-------- Notas ----------
+####  **Nota** 
 
-En este repositorio estaran las practicas hechas para el aprendisaje con Dart
+En este repositorio estaran las practicas hechas para el aprendisaje con Dart :neckbeard: 
 
